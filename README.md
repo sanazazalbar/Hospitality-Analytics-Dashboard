@@ -88,7 +88,11 @@ An interactive Power BI dashboard built on the final cleaned dataset, enabling:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard]()
+![Dashboard](https://github.com/sanazazalbar/Hospitality-Analytics-Dashboard/blob/c2dfa87fb4596a7897c115ff13eb7dfa5d05caba/executive.jpg)
+![Dashboard](https://github.com/sanazazalbar/Hospitality-Analytics-Dashboard/blob/c2dfa87fb4596a7897c115ff13eb7dfa5d05caba/Operations.jpg)
+![Dashboard](https://github.com/sanazazalbar/Hospitality-Analytics-Dashboard/blob/c2dfa87fb4596a7897c115ff13eb7dfa5d05caba/GuestAnalytics.jpg)
+![Dashboard](https://github.com/sanazazalbar/Hospitality-Analytics-Dashboard/blob/c2dfa87fb4596a7897c115ff13eb7dfa5d05caba/Financial.jpg)
+
 
 ## 🛠️ Tech Stack
 
