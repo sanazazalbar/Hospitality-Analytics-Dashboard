@@ -108,4 +108,34 @@ Histogram, Boxplot, Bar chart, Bar chart
 
 ---
 
-## 📊 Phase 3 — Power BI
+## 📊 Phase 3 — Power BI Dashboard (hotel.pbix)
+4-page interactive dashboard:
+- **Executive Summary** — KPIs overview
+- **Operations** — Booking status & channel analysis
+- **Guest Analytics** — Demographics & satisfaction
+- **Financial** — Revenue, cost & profit breakdown
+
+## 📸 Dashboard Preview
+![Executive](executive.jpg)
+![Operations](Operations.jpg)
+![Guest Analytics](GuestAnalytics.jpg)
+![Financial](Financial.jpg)
+
+---
+
+## 🛠 Tech Stack
+Python | Pandas | Matplotlib | NumPy | Jupyter Notebook | Power BI | Excel
+
+---
+
+## 🚀 Getting Started
+1. Run `FinalProject.ipynb` → generates cleaned CSV
+2. Run `FinalProjectAnalysis.ipynb` → EDA & charts
+3. Open `hotel.pbix` in Power BI Desktop
+
+What Changed
+BeforeAfter"1,080 records" mentioned onceFull KPI table with ₹7,84,211 revenue"Handled missing values"Table showing exactly which 8 columns + counts"Revenue by location"Actual city-wise revenue ranking"8 visualizations"All chart types named"4-page dashboard"Each page named
+This is genuinely your strongest and most complete project — it shows the full analyst workflow: raw data → cleaning → EDA → dashboard. Make sure it's listed #1 on your resume! 🏆
+
+
+
