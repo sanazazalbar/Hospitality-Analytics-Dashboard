@@ -8,10 +8,13 @@ interactive 4-page Power BI dashboard.
 ---
 
 ## 📁 Project Structure
+```
 ├── hospitality.xlsx              # Raw dataset
 ├── FinalProject.ipynb            # Data cleaning notebook
 ├── FinalProjectAnalysis.ipynb    # EDA & visualization notebook
-└── hotel.pbix                    # Power BI dashboard (4 pages)
+├── hotel.pbix                    # Power BI dashboard
+
+```             
 
 ---
 
